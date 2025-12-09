@@ -26,6 +26,7 @@ This project provides a strong baseline for smart-monitoring, IoT seating system
 
 📁 Repository Structure
 .
+
 ├── classification_model_on-seat.ipynb   # Main ML notebook
 
 ├── README.md                            # Documentation (this file)
